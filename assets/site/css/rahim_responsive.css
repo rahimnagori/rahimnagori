@@ -1,0 +1,123 @@
+@media  (max-width: 1400px) {
+  .main-content {
+    padding-left: 200px;
+  }
+  .side-menu {
+    width: 200px;
+}
+.side-menu-wrapper{
+  width: 200px;
+}
+}
+
+@media  (max-width: 1199px) {
+  .partners .partners-slider .slider-item {
+    flex: 25%;
+    max-width: 25%;
+}
+.partners .partners-slider{
+  justify-content: start;
+  text-align: left;
+}
+}
+
+@media  (max-width: 991px) {
+ 
+  .side-menu{
+    position: fixed;
+    z-index: 99;
+    background: #fff;
+    height: 100%;
+    overflow: auto;
+    display: none;
+  }
+  .side-menu-wrapper .menu-toogle-icon{
+    display: block;
+  }
+
+  .main-content {
+    padding-left: 0px;
+  }
+  .categori-widget{
+    margin-top: 30px;
+  }
+  .about-section .about .about-image{
+    margin-bottom: 30px;
+  }
+  .partners .partners-slider .slider-item {
+    flex: 33.333%;
+    max-width: 33.33%;
+}
+.contact .home-page-form{
+  margin-bottom: 30px;
+}
+.portfolio-details .info{
+  margin-top: 30px;
+}
+
+}
+
+@media  (max-width: 767px) {
+ 
+}
+
+
+@media  (max-width: 575px) {
+  .home-section .home-content .heading {
+    font-size: 32px;
+    line-height: 42px;
+}
+.about-section .about .about-content .personal-info ul li {
+  max-width: 100%;
+  -webkit-box-flex: 100%;
+  -ms-flex: 100%;
+  flex: 100%;
+}
+
+}
+
+
+
+@media  (max-width: 414px) {
+  .header-area .title {
+    display: block;
+}
+.main-top-header .top-header-content .right-content .list li a{
+  font-size: 12px;
+}
+.resume-wrapper .resume-box .skill-list2 .single-skill2 {
+  max-width: 50%;
+  -webkit-box-flex: 50%;
+  -ms-flex: 50%;
+  flex: 50%;
+}
+.partners .partners-slider .slider-item {
+  flex: 50%;
+  max-width: 50%;
+}
+
+.single-blog-details .content .title {
+  font-size: 21px;
+  line-height: 31px;
+}
+.comment-area .comment-box-area li .comment-box .right {
+  margin-left: 0px;
+}
+.comment-area .comment-box-area li .comment-box .left{
+  position: relative;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+}
+
+
+@media  (max-width: 360px) {
+  .project-gallery .project-gallery-filter .project-gallery-menu .filter{
+    width: 100%;
+    margin: 0px;
+  }
+}
+
+
+

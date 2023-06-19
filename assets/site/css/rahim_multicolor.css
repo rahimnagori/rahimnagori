@@ -1,0 +1,74 @@
+/* multicolor start c40a0b */
+
+
+.home-section .particals .circles{
+    background: #4286f45e;
+}
+
+.side-menu #mainmenu-area li a i,
+.base-btn1 i,
+.section-heading .title i,
+.single-counter .icon i,
+.service-wrapper .single-feature .icon i,
+.resume-wrapper .resume-box .knowledge-list .single-knowledge p::before,
+.info.service-category .service-list li .service i,
+.gallery-item-content .item-thumbnail .content-overlay .content .links a i,
+.single-blog-details .content ul li p i,
+.side-menu-wrapper .menu-toogle-icon i
+{
+    color: #c40a0b!important;
+}
+.resume-wrapper .resume-box .education-list .single-education .year,
+.resume-wrapper .resume-box .education-list .single-education::before,
+.resume-wrapper .resume-box .education-list .single-education::after,
+.categori-widget .cat-list li a .count,
+.idgallery .slidPrv4.slick-arrow,
+.idgallery .slidNext4.slick-arrow
+{
+    background: #c40a0b;
+}
+.progress-bar,
+.resume-wrapper .resume-box .skill-list .single-skill .progress .progress-bar,
+.resume-wrapper .resume-box .skill-list2 .single-skill2 .circle-progress .right,
+.resume-wrapper .resume-box .skill-list2 .single-skill2 .circle-progress .rotate
+{
+    background-color: #c40a0b!important;
+}
+.resume-wrapper .resume-box .education-list .single-education .year::after {
+    border-top: 10px solid #c40a0b;
+}
+.resume-wrapper .resume-box .education-list .single-education {
+    border-left: 3px solid #c40a0b;
+}
+.single-review .stars i{
+    color: #ffcc00!important;
+}
+.single-blog-details .content blockquote {
+    border-left: 4px solid #c40a0b;
+}
+
+.loader-1 .loader-outter {
+    position: absolute;
+    border: 4px solid #c40a0b;
+    border-left-color: transparent;
+    border-bottom: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    -webkit-animation: loader-1-outter 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
+    animation: loader-1-outter 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
+  }
+  
+  .loader-1 .loader-inner {
+    position: absolute;
+    border: 4px solid #c40a0b;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    left: calc(50% - 20px);
+    top: calc(50% - 20px);
+    border-right: 0;
+    border-top-color: transparent;
+    -webkit-animation: loader-1-inner 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
+    animation: loader-1-inner 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
+  }
