@@ -961,7 +961,6 @@ function HomePage() {
                     </div>
                   </div>
                 </div>
-
                 <div className="col-lg-6">
                   <div
                     className="google_map_wrapper"
