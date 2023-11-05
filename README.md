@@ -5,6 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahimnagori" alt="rahimnagori" /></a> </p>
 
+- 🔭 I’m currently working on **JavaScript, jQuery, React, Node, PHP, MySQL, GIT**
+
+- 🌱 I’m currently learning **CI / CD**
+
+- 👯 I’m looking to collaborate on anything. **anything related to my tech stack.**
+
+- 🤝 I’m looking for help with new **projects, leads and clients.**
+
+- 👨‍💻 All of my projects are available at [rahimnagori.com](rahimnagori.com)
+
+- 💬 Ask me about **Any doubts on JavaScript and it's framework and PHP and it's framework.**
+
+- ⚡ Fun fact **I'm witty. Loves to talk.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahimnagori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimnagori" height="30" width="40" /></a>
