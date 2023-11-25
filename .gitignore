@@ -1,3 +1,5 @@
+build/
+node_modules/
 application/config/config.php
 application/config/database.php
 assets/site/img/profile
